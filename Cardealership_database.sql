@@ -19,7 +19,7 @@ CREATE TABLE dealerships (
 );
 
 # ---------------------------------------------------------------------- #
-# Add table "vehicles"                                 			         #
+# Add table "vehicles"                                 			             #
 # ---------------------------------------------------------------------- #
 
 CREATE TABLE vehicles (
@@ -31,7 +31,7 @@ CREATE TABLE vehicles (
 );
 
 # ---------------------------------------------------------------------- #
-# Add table "inventory"                                 		         #
+# Add table "inventory"                                 		             #
 # ---------------------------------------------------------------------- #
 
 CREATE TABLE inventory (
@@ -43,7 +43,7 @@ CREATE TABLE inventory (
 );
 
 # ---------------------------------------------------------------------- #
-# Add table "sales_contracts"                          			         #
+# Add table "sales_contracts"                          			             #
 # ---------------------------------------------------------------------- #
 
 CREATE TABLE sales_contracts (
@@ -57,7 +57,7 @@ CREATE TABLE sales_contracts (
 );
 
 # ---------------------------------------------------------------------- #
-# Add table "lease_contracts"                          			         #
+# Add table "lease_contracts"                          		    	         #
 # ---------------------------------------------------------------------- #
 
 CREATE TABLE lease_contracts (
